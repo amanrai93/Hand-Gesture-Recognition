@@ -1,0 +1,12 @@
+Your task is to train a model on the 'train' folder which performs well on the 'val' folder as well (as usually done in ML projects). We have withheld the test folder for evaluation purposes - your final model's performance will be tested on the 'test' set.
+
+ 
+
+To get started with the model building process, you first need to get the data on your storage. 
+
+In order to get the data on the storage, perform the following steps in order
+
+Open the terminal
+ g0 down https://drive.google.com/uc?id=1ehyrYBQ5rbQQe6yL4XbLWe3FMvuVUGiL
+
+ unzip Project_data.zip
