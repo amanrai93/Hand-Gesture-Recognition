@@ -9,3 +9,6 @@ The gestures are continuously monitored by the webcam mounted on the TV. Each ge
 - Stop: Pause the movie
  
 Each video is a sequence of 30 frames (or images).
+
+![gesture recognition](https://github.com/amanrai93/Hand-Gesture-Recognition/assets/123299829/ef54f3a7-9d33-4909-ab42-97668dc34576)
+
